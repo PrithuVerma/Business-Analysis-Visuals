@@ -4,7 +4,7 @@
 ## 🎥 Dashboard Walkthrough (YouTube)
 
 👉 Detailed explanation of dashboard:
-🔗 [Insert YouTube Video Link Here]
+🔗 [[Video Link]](https://youtu.be/hBUyuPr6jnM)
 
 ## 📌 Project Overview
 
