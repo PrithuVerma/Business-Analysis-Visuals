@@ -1,6 +1,6 @@
 # 📊 American Super Store Sales Analysis – Power BI Dashboard
 👉 **Watch the full dashboard explanation here:**
-🔗 [[Video Link Here]](https://youtu.be/smPEfhKrme8)
+🔗 [[Video Link Here]](https://youtu.be/c3zox44hVmE)
 
 ## 📌 Project Overview
 
