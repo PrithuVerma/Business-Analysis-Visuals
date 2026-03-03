@@ -3,7 +3,7 @@
 ## 🎥 Dashboard Walkthrough (YouTube)
 
 👉 Full explanation of dashboard:
-🔗 [Insert YouTube Video Link Here]
+🔗 [[Video Link](https://youtu.be/6hoB54jISyg)]
 ## 📌 Project Overview
 
 This project presents an interactive **Power BI dashboard** analyzing customer data of a retail banking institution.
