@@ -108,7 +108,3 @@ The dataset includes:
 **PRITHU VERMA**
 Data Analytics Enthusiast | SQL | Power BI | Python
 
----
-
-If you want, I can also create a sharper, more minimal version tailored specifically for recruiters.
-
