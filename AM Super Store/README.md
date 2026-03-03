@@ -1,4 +1,6 @@
 # 📊 American Super Store Sales Analysis – Power BI Dashboard
+👉 **Watch the full dashboard explanation here:**
+🔗 [[Video Link Here]](https://youtu.be/smPEfhKrme8)
 
 ## 📌 Project Overview
 
@@ -82,13 +84,6 @@ This dataset simulates real-world retail operations data.
 1. Download the `.pbix` file from this repository.
 2. Open using **Power BI Desktop**.
 3. Interact with filters and visuals to explore insights.
-
----
-
-## 🎥 Dashboard Walkthrough (YouTube)
-
-👉 **Watch the full dashboard explanation here:**
-🔗 [[Video Link Here]](https://youtu.be/smPEfhKrme8)
 
 ---
 
